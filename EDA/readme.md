@@ -1,0 +1,1 @@
+In this EDA task, i chose to do EDA on Iris flower dataset which gives different lengths and widths of sepals and petals both and then i trained the dataset with random forest classifier which gave a impressive accuracy of 97 percent
